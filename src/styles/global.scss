@@ -7,8 +7,10 @@
 :root {
     --white: #FFFFFF;
 
-    --gray-100: #E1E1E6;
+    --grey-100: #E1E1E6;
     --grey-300: #A8A8B3;
+    --grey-800: #29292e;
+    --grey-850: #1f2729;
     --grey-900: #121214;
 
     --cyan-500: #61DAFB;
@@ -28,7 +30,7 @@
 }
 
 body {
- background: var(--gray-900);
+ background: var(--grey-900);
  color: var(--white);
 }
 
